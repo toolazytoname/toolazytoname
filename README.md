@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 My Open Source Projects
+<p align="center">
+<img src="metrics.svg" width="900"/>
+</p>

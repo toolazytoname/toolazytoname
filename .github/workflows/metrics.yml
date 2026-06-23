@@ -1,0 +1,19 @@
+name: Generate Profile Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天凌晨自动更新
+  workflow_dispatch: # 支持手动点按钮刷新
+permissions:
+  contents: write
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate metrics svg（包含仓库列表）
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: repositories # 开启自动仓库展示模块
+          repositories: order=updated,limit=12,nonfork=true # 按最近更新排序，只展示自己原创项目
