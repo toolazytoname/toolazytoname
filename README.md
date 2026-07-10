@@ -17,7 +17,9 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 ## 🛠️ Tools & Infrastructure
 
 - **[atelier](https://github.com/toolazytoname/atelier)** — macOS + Claude Code, isolated in a disposable Linux VM. Your host stays clean.
-- **[WeChatExport](https://github.com/toolazytoname/WeChatExport)** — Export WeChat chat logs ⭐
+- **[autodev-harness](https://github.com/toolazytoname/autodev-harness)** — Autonomous AI-driven development harness with independent quality loops. Say one sentence, walk away, come back to a high-quality result.
+- **[Sentinel](https://github.com/toolazytoname/Sentinel)** — Disciplined crypto quant trading system. LLM never places orders; discipline is encoded in a state machine.
+- **[MediaForge](https://github.com/toolazytoname/MediaForge)** — Local-first media toolbox · image & video utilities, all on-device.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,7 +30,8 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 
 ## ✍️ Writing
 
-Blog: [weichao.ren](https://www.weichao.ren/) — build systems, indie hacking, and everything in between.
+- Blog: [weichao.ren](https://www.weichao.ren/) — build systems, indie hacking, and everything in between.
+- **[sell-and-shipping](https://github.com/toolazytoname/sell-and-shipping)** — Public roadmap & playbooks for shipping indie products and growing the maker's footprint. *(private)*
 
 <details>
 <summary>Off-screen</summary>
