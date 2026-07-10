@@ -31,7 +31,6 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 ## ✍️ Writing
 
 - Blog: [weichao.ren](https://www.weichao.ren/) — build systems, indie hacking, and everything in between.
-- **[sell-and-shipping](https://github.com/toolazytoname/sell-and-shipping)** — Public roadmap & playbooks for shipping indie products and growing the maker's footprint. *(private)*
 
 <details>
 <summary>Off-screen</summary>
