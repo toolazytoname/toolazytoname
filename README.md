@@ -20,6 +20,7 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 - **[autodev-harness](https://github.com/toolazytoname/autodev-harness)** — Autonomous AI-driven development harness with independent quality loops. Say one sentence, walk away, come back to a high-quality result.
 - **[Sentinel](https://github.com/toolazytoname/Sentinel)** — Disciplined crypto quant trading system. LLM never places orders; discipline is encoded in a state machine.
 - **[MediaForge](https://github.com/toolazytoname/MediaForge)** — Local-first media toolbox · image & video utilities, all on-device.
+- **[wechat-mp-devops](https://github.com/toolazytoname/wechat-mp-devops)** — WeChat MiniProgram CI/CD & DevOps playbooks, packaged as a Claude Code skill. Drop into any Mini Program project.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
