@@ -26,8 +26,6 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 
 ## 🤖 AI Dev Stack & Agent Harness
 
-- 🧪 **[autodev-harness](https://github.com/toolazytoname/autodev-harness)** — AI-driven development harness with independent quality loops. The model is the cheapest part — quality comes from the structure (generate → independent reviewers → gate → commit). Say one sentence, walk away, come back to a high-quality result.
-- 🖥️ **[atelier](https://github.com/toolazytoname/atelier)** — macOS + Claude Code, isolated in a disposable Linux VM. Your host stays clean.
 - 🤖 **[android-ai-stack](https://github.com/toolazytoname/android-ai-stack)** — A local-first AI toolchain for an Android phone running Termux + Kali PRoot: OpenCode, Claude Code, Happy's agent and server all run on the phone.
 - 📊 **[llm-quota-watchdog](https://github.com/toolazytoname/llm-quota-watchdog)** — One dashboard + smart push alerts for LLM coding-plan quotas — Claude Pro/Max, Codex Plus/Pro, Kimi for Coding, GLM Coding Plan. Python stdlib only, static HTML, no DB.
 - 📡 **[happy-relay-deploy](https://github.com/toolazytoname/happy-relay-deploy)** — A skill for self-hosting a Happy relay when you genuinely need to drive Claude Code on a remote machine from your phone. Tailnet-only by default.
@@ -38,7 +36,6 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 - 🕵️ **[pocket-pentest](https://github.com/toolazytoname/pocket-pentest)** — Turn an Android phone into an authorized pentest / CTF carry-on toolkit. No custom kernel, no system downgrade — Magisk root + Termux/PRoot Kali userspace.
 - 📞 **[xiaohei-phone-agent](https://github.com/toolazytoname/xiaohei-phone-agent)** — "Wake it. Say it. Let your phone act." An open, local-first AI phone assistant for Android — voice command → intent routing → observable actions, with confirmation when it matters.
 - 🧪 **[android-device-test](https://github.com/toolazytoname/android-device-test)** — Real-device Android testing skill: ADB triage, state pinning, uiautomator2, PerfDog, monkey — and telling real failures from false ones.
-- 🔐 **[relay-proxy](https://github.com/toolazytoname/relay-proxy)** — Let an AI agent operate your Linux servers without handing it the password. The agent only talks to a relay; the relay uses temporary, revocable credentials.
 
 ## 🔧 Self-Hosted & Ops Skills
 
@@ -49,9 +46,6 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 ## 🎬 Media & Content
 
 - 🏭 **[MediaForge](https://github.com/toolazytoname/MediaForge)** — An AI self-media pipeline: topic selection → creation (article/video) → quality gate → human review → scheduled multi-platform publishing → analytics feedback. Quality comes from the veto — it dares to drop 70% of output.
-- 📰 **[self-media-platform](https://github.com/toolazytoname/self-media-platform)** — An AI content creation & multi-platform distribution system. Multi-provider (MiniMax / Claude / OpenAI-compatible) creation center.
-- 📨 **[wechat-autopost](https://github.com/toolazytoname/wechat-autopost)** — Auto-scrape trending articles → AI rewrite (keeps the gist, strips the AI smell) → one-click publish to WeChat / Zhihu / Jianshu / CSDN.
-- 🧸 **[toys](https://github.com/toolazytoname/toys)** — Personal toys & experiments. [live](https://toys-iota-pearl.vercel.app)
 
 ## 📈 Quant Trading
 
