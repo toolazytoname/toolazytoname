@@ -20,42 +20,42 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 
 | | | |
 |---|---|---|
-| 🐰 **[小兔头节拍器](https://jpq.weichao.studio)** | Online metronome for piano & guitar practice | [repo](https://github.com/toolazytoname/metronome) · WeChat Mini Program |
-| 📅 **[GridGo](https://beta.gridgo.weichao.studio)** | Calendar-first todo app | [repo](https://github.com/toolazytoname/GridGo) · in beta |
-| 🏔️ **[Lodge](https://lodge.weichao.studio)** | Your private home base for servers, services & secrets — one HTML file, zero servers, E2E encrypted | [repo](https://github.com/toolazytoname/lodge) |
+| 🐰 **[小兔头节拍器](https://jpq.weichao.studio)** | A metronome that opens right in your browser — kid-voice beat counting, traditional strong/weak beats, multiple time signatures. For piano, drums, or dance practice. | [repo](https://github.com/toolazytoname/metronome) · WeChat Mini Program |
+| 🤵 **[GridGo · 格行](https://beta.gridgo.weichao.studio)** | A personal Agent butler — one grid, one task. | [repo](https://github.com/toolazytoname/GridGo) · in beta |
+| 🖥️ **[Lodge](https://lodge.weichao.studio)** | See every service running on each of your servers, what's exposed where — hub + agent architecture, a single Go binary, E2E-encrypted vault. No more spreadsheets that go stale in a week. | [repo](https://github.com/toolazytoname/lodge) |
 
 ## 🤖 AI Dev Stack & Agent Harness
 
-- 🧪 **[autodev-harness](https://github.com/toolazytoname/autodev-harness)** — Autonomous AI-driven development harness with independent quality loops. Say one sentence, walk away, come back to a high-quality result.
+- 🧪 **[autodev-harness](https://github.com/toolazytoname/autodev-harness)** — AI-driven development harness with independent quality loops. The model is the cheapest part — quality comes from the structure (generate → independent reviewers → gate → commit). Say one sentence, walk away, come back to a high-quality result.
 - 🖥️ **[atelier](https://github.com/toolazytoname/atelier)** — macOS + Claude Code, isolated in a disposable Linux VM. Your host stays clean.
-- 🤖 **[android-ai-stack](https://github.com/toolazytoname/android-ai-stack)** — Self-contained Android AI runtime: OpenCode, Claude Code, Happy, provider switching, and evidence-based acceptance.
-- 📊 **[llm-quota-watchdog](https://github.com/toolazytoname/llm-quota-watchdog)** — One dashboard + smart push alerts for LLM coding-plan quotas — Claude Pro/Max, Codex Plus/Pro, Kimi for Coding.
-- 📡 **[happy-relay-deploy](https://github.com/toolazytoname/happy-relay-deploy)** — Self-hosted Happy relay for remotely controlling Claude Code across multiple machines, incl. HTTPS workarounds for unlicensed mainland domains.
+- 🤖 **[android-ai-stack](https://github.com/toolazytoname/android-ai-stack)** — A local-first AI toolchain for an Android phone running Termux + Kali PRoot: OpenCode, Claude Code, Happy's agent and server all run on the phone.
+- 📊 **[llm-quota-watchdog](https://github.com/toolazytoname/llm-quota-watchdog)** — One dashboard + smart push alerts for LLM coding-plan quotas — Claude Pro/Max, Codex Plus/Pro, Kimi for Coding, GLM Coding Plan. Python stdlib only, static HTML, no DB.
+- 📡 **[happy-relay-deploy](https://github.com/toolazytoname/happy-relay-deploy)** — A skill for self-hosting a Happy relay when you genuinely need to drive Claude Code on a remote machine from your phone. Tailnet-only by default.
 
 ## 📱 Mobile Lab & Security Research
 
-- 🔬 **[oneplus-8t-mobile-lab](https://github.com/toolazytoname/oneplus-8t-mobile-lab)** — OnePlus 8T turned into an open mobile lab: Android, wireless security, and on-device AI.
+- 🔬 **[oneplus-8t-mobile-lab](https://github.com/toolazytoname/oneplus-8t-mobile-lab)** — An open phone lab grown out of one OnePlus 8T: Android flashing & recovery, real-device automation, authorized mobile security, wireless observation, and on-device AI agents.
 - 🕵️ **[pocket-pentest](https://github.com/toolazytoname/pocket-pentest)** — Turn an Android phone into an authorized pentest / CTF carry-on toolkit. No custom kernel, no system downgrade — Magisk root + Termux/PRoot Kali userspace.
-- 📞 **[xiaohei-phone-agent](https://github.com/toolazytoname/xiaohei-phone-agent)** — Local-first, safety-gated Android Phone Agent with portable and device-specific wake backends.
+- 📞 **[xiaohei-phone-agent](https://github.com/toolazytoname/xiaohei-phone-agent)** — "Wake it. Say it. Let your phone act." An open, local-first AI phone assistant for Android — voice command → intent routing → observable actions, with confirmation when it matters.
 - 🧪 **[android-device-test](https://github.com/toolazytoname/android-device-test)** — Real-device Android testing skill: ADB triage, state pinning, uiautomator2, PerfDog, monkey — and telling real failures from false ones.
-- 🔐 **[relay-proxy](https://github.com/toolazytoname/relay-proxy)** — Agent SSH Relay with privilege control + audit logging for Linux servers.
+- 🔐 **[relay-proxy](https://github.com/toolazytoname/relay-proxy)** — Let an AI agent operate your Linux servers without handing it the password. The agent only talks to a relay; the relay uses temporary, revocable credentials.
 
 ## 🔧 Self-Hosted & Ops Skills
 
 - 🏠 **[home-nas-skill](https://github.com/toolazytoname/home-nas-skill)** — Home NAS build & ops playbook as a Claude Code skill: full media pipeline (Prowlarr→Sonarr/Radarr→qB→Bazarr→Jellyfin), Immich, Navidrome, backups — with all the China-network and weak-CPU gotchas baked in.
 - 🌐 **[reality-handshake](https://github.com/toolazytoname/reality-handshake)** — Diagnosing VLESS+Reality / XTLS proxy handshake failures, and connecting new clients to an existing server.
-- 💬 **[wechat-mp-devops](https://github.com/toolazytoname/wechat-mp-devops)** — WeChat MiniProgram CI/CD & DevOps playbooks, packaged as a Claude Code skill.
+- 💬 **[wechat-mp-devops](https://github.com/toolazytoname/wechat-mp-devops)** — WeChat MiniProgram CI/CD & DevOps playbooks (build / upload / scan-test on Linux & macOS), packaged as a drop-in Claude Code skill.
 
 ## 🎬 Media & Content
 
-- 🎞️ **[MediaForge](https://github.com/toolazytoname/MediaForge)** — Local-first media toolbox · image & video utilities, all on-device.
-- 📰 **[self-media-platform](https://github.com/toolazytoname/self-media-platform)** — Self-media content management platform.
-- 📨 **[wechat-autopost](https://github.com/toolazytoname/wechat-autopost)** — WeChat Official Account autoposter — AI rewrite + rich-text image layout.
+- 🏭 **[MediaForge](https://github.com/toolazytoname/MediaForge)** — An AI self-media pipeline: topic selection → creation (article/video) → quality gate → human review → scheduled multi-platform publishing → analytics feedback. Quality comes from the veto — it dares to drop 70% of output.
+- 📰 **[self-media-platform](https://github.com/toolazytoname/self-media-platform)** — An AI content creation & multi-platform distribution system. Multi-provider (MiniMax / Claude / OpenAI-compatible) creation center.
+- 📨 **[wechat-autopost](https://github.com/toolazytoname/wechat-autopost)** — Auto-scrape trending articles → AI rewrite (keeps the gist, strips the AI smell) → one-click publish to WeChat / Zhihu / Jianshu / CSDN.
 - 🧸 **[toys](https://github.com/toolazytoname/toys)** — Personal toys & experiments. [live](https://toys-iota-pearl.vercel.app)
 
 ## 📈 Quant Trading
 
-- 🛡️ **[Sentinel](https://github.com/toolazytoname/Sentinel)** — Disciplined crypto quant trading system. freqtrade foundation + a thin custom shell; discipline encoded in a state machine, LLM only does research / review / veto — never places orders.
+- 🛡️ **[Sentinel](https://github.com/toolazytoname/Sentinel)** — A disciplined cryptocurrency quantitative system for the long-term investor. Its value isn't "earning more" — it's using machine-level discipline to stop you from repeating your own mistakes. LLM only does research / review / veto; it never places orders.
 
 ## 📜 Legacy iOS
 
