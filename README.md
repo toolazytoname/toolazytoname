@@ -21,8 +21,8 @@ At a leading tech company I built the industry's first in-house **Swift compilat
 | | | |
 |---|---|---|
 | 🐰 **[小兔头节拍器](https://jpq.weichao.studio)** | A metronome that opens right in your browser — kid-voice beat counting, traditional strong/weak beats, multiple time signatures. For piano, drums, or dance practice. | [repo](https://github.com/toolazytoname/metronome) · WeChat Mini Program |
-| 🤵 **[GridGo · 格行](https://beta.gridgo.weichao.studio)** | A personal Agent butler — one grid, one task. | [repo](https://github.com/toolazytoname/GridGo) · in beta |
-| 🖥️ **[Lodge](https://lodge.weichao.studio)** | See every service running on each of your servers, what's exposed where — hub + agent architecture, a single Go binary, E2E-encrypted vault. No more spreadsheets that go stale in a week. | [repo](https://github.com/toolazytoname/lodge) |
+| 🤵 **GridGo · 格行** | A personal Agent butler — one grid, one task. | [repo](https://github.com/toolazytoname/GridGo) · in beta |
+| 🖥️ **Lodge** | See every service running on each of your servers, what's exposed where — hub + agent architecture, a single Go binary, E2E-encrypted vault. No more spreadsheets that go stale in a week. | [repo](https://github.com/toolazytoname/lodge) |
 
 ## 🤖 AI Dev Stack & Agent Harness
 
