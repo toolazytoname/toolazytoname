@@ -1,0 +1,17 @@
+{
+  "user": "toolazytoname",
+  "recent_days": 90,
+  "max_items": 12,
+  "exclude": [
+    "toolazytoname",
+    "toolazytoname.github.io",
+    "leakradar-dist",
+    "web3_learning",
+    "autodev-harness",
+    "atelier",
+    "relay-proxy",
+    "self-media-platform",
+    "wechat-autopost",
+    "toys"
+  ]
+}
