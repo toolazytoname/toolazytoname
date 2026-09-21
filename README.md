@@ -70,9 +70,11 @@ Recent work also lives on **[LazyOS](https://lazyos.weichao.studio)** ([repo](ht
 ## 🆕 Recently shipped
 
 <!-- recently-shipped:start -->
-_Public original repos from the last 90 days that aren't listed above. Last refresh: 2026-09-14._
+_Public original repos from the last 90 days that aren't listed above. Last refresh: 2026-09-21._
 
-- `2026-09-13` **[skill-registry](https://github.com/toolazytoname/skill-registry)** — Personal agent skill catalog: source repositories, categories, and verification records
+- `2026-09-20` **[appstore-submit](https://github.com/toolazytoname/appstore-submit)** — Agent skill：iOS App 上架 App Store 端到端流程（xcodebuild 上传 + ASC 网页自动化 + 踩坑清单）
+- `2026-09-19` **[skill-registry](https://github.com/toolazytoname/skill-registry)** — Personal agent skill catalog: source repositories, categories, and verification records
+- `2026-09-16` **[agent-progress](https://github.com/toolazytoname/agent-progress)** — Agent skill: generic progress board — JSON source of truth, stdlib CLI, self-contained dark HTML dashboard
 - `2026-09-13` **[cli-worker-delegation](https://github.com/toolazytoname/cli-worker-delegation)** — Bounded local task delegation to Cursor or Grok CLI with explicit write opt-in and tests
 - `2026-08-31` **[mindstorms-51515](https://github.com/toolazytoname/mindstorms-51515)** — 51515 Charlie 玩机手册 · LEGO MINDSTORMS Robot Inventor field notes
 - `2026-08-25` **[kazike](https://github.com/toolazytoname/kazike)** — 数字生命卡兹克知识地图
